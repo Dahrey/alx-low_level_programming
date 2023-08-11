@@ -1,7 +1,8 @@
 #include <stdio.h>
 #include <unistd.h>
 /**
- *  main - A c program
+ *  main - Entry point
+ *
  *  Return 1 (pass)
  */
 int main(void)
